@@ -1,2 +1,2 @@
 # ML-case-study-03
-Diabetes health care case study 3
+heart disease care case study 3
